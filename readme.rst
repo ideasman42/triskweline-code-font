@@ -32,3 +32,8 @@ Added Characters
 - Left and right single and double quotes (``“”``, ``‘’``).
 - Dot character ``•``.
 
+Unicode Characters
+==================
+
+- U8658 (⇒)
+- U8594 (→)
