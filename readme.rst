@@ -35,5 +35,12 @@ Added Characters
 Unicode Characters
 ==================
 
-- U8658 (⇒)
-- U8594 (→)
+- U000402 (ƒ) lower-case italic 'f'.
+- U120333 (𝘍) upper-case italic 'F'.
+
+- U008594 (→) right arrow.
+- U008658 (⇒) right double arrow.
+- U008800 (≠) not equal to.
+- U008804 (≤) less than or equal to.
+- U008805 (≥) greater than or equal to.
+- U010869 (⩵) two consecutive equals signs.
