@@ -31,8 +31,10 @@ Added Characters
 
 Misc Symbols:
 
-- ``U8230``    (…) ellipsis character.
 - ``U8226``    (•) Bullet/dot character.
+- ``U8228``    (․) leader (dot).
+- ``U8229``    (‥) leader (two dots).
+- ``U8230``    (…) ellipsis character.
 
 Left and right single and double quotes:
 
