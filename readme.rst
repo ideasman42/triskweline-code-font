@@ -29,6 +29,10 @@ Changes
 Added Characters
 ================
 
+These symbols are included to display common symbols used to replace
+symbols used in programming languages using Vim's *conceal*
+or Emacs' pretty-symbols feature.
+
 Misc Symbols:
 
 - ``U8226``    (•) Bullet/dot character.
@@ -54,6 +58,9 @@ Math/Logic Symbols:
 - ``U8658``    (⇒) right double arrow.
 - ``U8656``    (⇐) left double arrow.
 - ``U8800``    (≠) not equal to.
+- ``U8801``    (≡) equivalent to.
+- ``U8802``    (≢) not equivalent to.
+- ``U8803``    (≣) strict equivalent to.
 - ``U8804``    (≤) less than or equal to.
 - ``U8805``    (≥) greater than or equal to.
 - ``U10869``   (⩵) two consecutive equals signs.
