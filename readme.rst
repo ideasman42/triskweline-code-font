@@ -39,6 +39,8 @@ Misc Symbols:
 - ``U8228``    (․) leader (dot).
 - ``U8229``    (‥) leader (two dots).
 - ``U8230``    (…) ellipsis character.
+- ``U9474``    (│) vertical separator.
+- ``U9475``    (┃) vertical separator (wide).
 
 Left and right single and double quotes:
 
