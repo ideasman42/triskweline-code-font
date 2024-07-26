@@ -18,6 +18,7 @@ Changes
 =======
 
 - Added bold version.
+- Gap added between underscore characters.
 - Star and tilde and equals characters (``*``, ``~``, ``=``):
   lowered to vertically align with plus, hyphen and other operators.
 - Punctuation characters (``.``, ``,``, ``;``, ``:``, ``\```):
